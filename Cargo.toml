@@ -1,0 +1,6 @@
+[package]
+name = "examples-in-rust"
+version = "0.1.0"
+authors = ["Weiliang Li <to.be.impressive@gmail.com>"]
+
+[dependencies]
