@@ -52,4 +52,13 @@ fn main() {
     chap8::run_8_5_3();
     chap8::run_8_6();
     chap8::run_8_7();
+    chap9::run_9();
+    chap9::run_9_1();
+    chap9::run_9_2();
+    chap9::run_9_2_1();
+    chap9::run_9_2_2();
+    chap9::run_9_2_3();
+    chap9::run_9_2_4();
+    chap9::run_9_2_5();
+    chap9::run_9_2_6();
 }
