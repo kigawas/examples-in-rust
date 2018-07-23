@@ -1,6 +1,13 @@
 mod chap1;
+mod chap10;
 mod chap2;
 mod chap3;
+mod chap4;
+mod chap5;
+mod chap6;
+mod chap7;
+mod chap8;
+mod chap9;
 
 fn main() {
     chap1::run_1_1();
@@ -17,6 +24,32 @@ fn main() {
     chap3::run_3_2();
     chap3::run_3_2_1();
     chap3::run_3_2_2();
-
-    println!("{}", "hello world");
+    chap3::run_3_2_3();
+    chap3::run_3_3();
+    chap4::run_4();
+    chap4::run_4_1();
+    chap4::run_4_2();
+    chap4::run_4_3();
+    chap5::run_5_1();
+    chap5::run_5_2();
+    chap5::run_5_3();
+    chap5::run_5_4();
+    chap6::run_6_1();
+    chap6::run_6_2();
+    chap7::run_7();
+    chap8::run_8_1();
+    chap8::run_8_2();
+    chap8::run_8_2_1();
+    chap8::run_8_2_2();
+    chap8::run_8_3();
+    chap8::run_8_4();
+    chap8::run_8_5();
+    chap8::run_8_5_1_1();
+    chap8::run_8_5_1_2();
+    chap8::run_8_5_1_3();
+    chap8::run_8_5_1_4();
+    chap8::run_8_5_2();
+    chap8::run_8_5_3();
+    chap8::run_8_6();
+    chap8::run_8_7();
 }
