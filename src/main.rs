@@ -1,5 +1,7 @@
 mod chap1;
 mod chap10;
+mod chap13;
+mod chap14;
 mod chap2;
 mod chap3;
 mod chap4;
@@ -61,4 +63,10 @@ fn main() {
     chap9::run_9_2_4();
     chap9::run_9_2_5();
     chap9::run_9_2_6();
+    chap10::run_10_1();
+    chap10::run_10_2();
+    chap10::run_10_3();
+    chap10::run_10_4();
+    chap13::run_13_1();
+    chap14::run_14();
 }
